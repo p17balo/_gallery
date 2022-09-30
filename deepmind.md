@@ -1,6 +1,6 @@
 ---
 author: p17balo
-title: deep-mind 
+title: Deep Mind 
 image_url: /images/deepmind.jpg
 caption: H Deep Mind είναι ενα ξεχωριστό κομμάτι της google όπου ασχολείται με την τεχνητή νοημοσύνη. Οι ανακαλύψεις της έχουν συναρπάσει όλο τεχνολογικό κοινό του πλανήτη με τα επιτεύματα της.
 license_url: "https://www.deepmind.com/" 
